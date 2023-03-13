@@ -8,7 +8,7 @@ Author&ensp;&ensp;&ensp;&nbsp; : &ensp;Achmad Adyatma Ardi <br>
 Email&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;: &ensp;adyatmaardi@gmail.com <br>
 LinkedIn&ensp;&ensp; :&ensp; https://www.linkedin.com/in/adyatmaardi/ <br>
 </h6>
-
+<hr>
 <div>
 <h4>Prerequisites :</h4>
 <ol>
@@ -23,7 +23,7 @@ LinkedIn&ensp;&ensp; :&ensp; https://www.linkedin.com/in/adyatmaardi/ <br>
   </li>
 </ol>
 </div>
-
+<hr>
 <div>
  <h4>Objectives :</h4>
   <ol>
